@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Tda022.mp4
-Active Line: 5
+Active Line: 7
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,10 +18,10 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.32,0:00:06.09,Default,Touko,0,0,0,,I've been here over six months - and Professor Takahashi still refuses to assign me any patients.
-Dialogue: 0,0:00:07.15,0:00:10.67,Default,Touko,0,0,0,,He tells me, "It's too hard to find clients in the age range you specialize in.".
-Dialogue: 0,0:00:10.88,0:00:11.82,Default,Touko,0,0,0,,but he's gotta be lying.
+Dialogue: 0,0:00:07.15,0:00:10.67,Default,Touko,0,0,0,,He tells me, "It's too hard to find clients in the age range you specialize in.",
+Dialogue: 0,0:00:10.88,0:00:11.82,Default,Touko,0,0,0,,but I know he's lying.
 Dialogue: 0,0:00:12.22,0:00:16.34,Default,Touko,0,0,0,,He thinks I'm good for nothing more than being his maid.
 Dialogue: 0,0:00:17.13,0:00:20.90,Default,Touko,0,0,0,,I didn’t come here to be his secretary!
-Dialogue: 0,0:00:21.56,0:00:24.30,Default,Touko,0,0,0,,
-Dialogue: 0,0:00:24.87,0:00:25.64,Default,Touko,0,0,0,,Ahh!
-Dialogue: 0,0:00:26.15,0:00:28.38,Default,Touko,0,0,0,,I don’t like that middle-aged old man!
+Dialogue: 0,0:00:21.56,0:00:24.30,Default,Touko,0,0,0,,I'm sure he'll sexually harass me one of these days... Disgusting.
+Dialogue: 0,0:00:24.87,0:00:25.64,Default,Touko,0,0,0,,Ahhhh!
+Dialogue: 0,0:00:26.15,0:00:28.38,Default,Touko,0,0,0,,I hate that old bastard!
