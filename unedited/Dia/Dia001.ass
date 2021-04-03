@@ -6,9 +6,16 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 640
+PlayResY: 480
 
 [Aegisub Project Garbage]
 Audio File: Dia001.mp4
+Video File: ?dummy:23.976000:40000:640:480:47:163:254:
+Video AR Value: 1.333333
+Video Zoom Percent: 0.500000
+Active Line: 5
+Video Position: 675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,8 +23,9 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.74,0:00:09.62,Default,Touko,0,0,0,,Initial diagnosis - the client's home environment is a nuclear family, consisting of the parents and the client.
-Dialogue: 0,0:00:09.62,0:00:13.80,Default,Touko,0,0,0,,Her parents are well off in terms of both social and economic means.
+Dialogue: 0,0:00:00.74,0:00:09.62,Default,Touko,0,0,0,,Initial diagnosis - the client lives in a nuclear family, consisting of the parents and the client.
+Dialogue: 0,0:00:09.62,0:00:13.80,Default,Touko,0,0,0,,Her parents are well off, both socially and economically.
 Dialogue: 0,0:00:14.86,0:00:17.08,Default,Touko,0,0,0,,Their marriage seems to be stable,
 Dialogue: 0,0:00:17.08,0:00:20.56,Default,Touko,0,0,0,,and there doesn't seem to be obvious signs of any mental health issues.
-Dialogue: 0,0:00:21.50,0:00:36.38,Default,Touko,0,0,0,,Regarding medical history, both the parents and our records indicate no family history of neurosis, psychosis, suicide, or consanguineous marriages.
+Dialogue: 0,0:00:21.50,0:00:28.13,Default,Touko,0,0,0,,Regarding medical history, we checked our records and asked the parents,
+Dialogue: 0,0:00:28.13,0:00:36.38,Default,Touko,0,0,0,,but found no indication of a family history of neurosis, psychosis, suicide, or consanguineous marriages.
