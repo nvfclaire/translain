@@ -14,9 +14,9 @@ Audio File: Cou004.mp4
 Video File: ?dummy:23.976000:40000:640:480:47:163:254:
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 30
-Active Line: 45
-Video Position: 2987
+Scroll Position: 3
+Active Line: 15
+Video Position: 898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +39,7 @@ Dialogue: 0,0:00:30.77,0:00:31.88,Default,Touko,0,0,0,,They're art supplies.
 Dialogue: 0,0:00:32.37,0:00:33.73,Default,Touko,0,0,0,,Do you like to draw?
 Dialogue: 0,0:00:34.22,0:00:35.18,Default,Lain,0,0,0,,Not really...
 Dialogue: 0,0:00:36.09,0:00:36.73,Default,Lain,0,0,0,,Probably not.
-Dialogue: 0,0:00:37.45,0:00:40.72,Default,Touko,0,0,0,,That's... unfortunate.
+Dialogue: 0,0:00:37.45,0:00:40.72,Default,Touko,0,0,0,,I see... unfortunate.
 Dialogue: 0,0:00:40.72,0:00:42.94,Default,Touko,0,0,0,,Wait - do you know tic-tac-toe?
 Dialogue: 0,0:00:43.25,0:00:46.12,Default,Lain,0,0,0,,I know what it is, but I don't really want to play right now.
 Dialogue: 0,0:00:48.02,0:00:49.36,Default,Touko,0,0,0,,I’m sorry.
