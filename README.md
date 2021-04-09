@@ -13,9 +13,9 @@ You can use this however you'd like, as long as you link back to this github, an
 * Claire/NVF - Translation
 * Molly McDowell - Editing and revision
 * lelenium - Providing the subtitles and working with me to implement these into LainTSX.
-* oo, non, and RamiaBerry - Double checking my translations for meaning
+* oo, non, and RamiaBerry - Double checking my translations for meaning.
 
 ### Thanks
 * psx.lain.pl - Making the original translation that made me fall in love with the game in the first place.
-* Penny, Kady, and Niel - For letting me talk endlessly about translating and encouraging me every step of the way.
+* Ramia, Penny, Kady, and Niel - For letting me talk endlessly about translating and encouraging me every step of the way.
 * Audrey - For inspiring me to pick up some projects for myself again after failing hard on my last few.
