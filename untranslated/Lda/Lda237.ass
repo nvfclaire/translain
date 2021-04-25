@@ -12,11 +12,8 @@ PlayResY: 150
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: Lda237.mp4
-Video File: ?dummy:23.976000:40000:640:480:47:163:254:
-Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 11
-Video Position: 722
+Video Zoom Percent: 0.625000
+Active Line: 9
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +24,7 @@ Style: antilain,Arial,14,&H000CEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.75,0:00:03.60,Default,Lain,0,0,0,,Do you know where I'm going?
 Dialogue: 0,0:00:04.50,0:00:05.72,antilain,Antilain,0,0,0,,I don't know either,
-Dialogue: 0,0:00:06.53,0:00:08.55,antilain,Antilain,0,0,0,,but you're about to be born.
+Dialogue: 0,0:00:06.53,0:00:08.55,antilain,Antilain,0,0,0,,but I'm about to be born.
 Dialogue: 0,0:00:09.18,0:00:11.18,Default,Lain,0,0,0,,Is this really the future of humanity?
 Dialogue: 0,0:00:12.06,0:00:14.60,antilain,Antilain,0,0,0,,You can think that if you'd like.
 Dialogue: 0,0:00:15.76,0:00:18.10,Default,Lain,0,0,0,,Don't you need a body to to be a human?
