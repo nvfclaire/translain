@@ -1,5 +1,5 @@
 # translain
-New translation of Serial Experiments Lain for PSX, around 17% complete.
+New translation of Serial Experiments Lain for PSX, around 24% complete.
 
 ## Info
 This is an entire retranslation from square one, from Japanese to English. The pre-existing translations had some issues and missed meaning in certain lines, so I aim to fix this by redoing the entire translation from scratch.
