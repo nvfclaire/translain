@@ -5,7 +5,7 @@ Node | Progress
 ---- | --------
 Cou | 5/53
 Dc | 0/23
-Dia | 2/48
+Dia | 3/48
 Eda | 0/5
 Ekm | 0/6
 Env | 0/12
