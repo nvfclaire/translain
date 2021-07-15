@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou033.mp4
-Active Line: 7
+Active Line: 11
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,14 +17,18 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.31,0:00:05.51,Default,Touko,0,0,0,, I’m sorry. I just was trying to explain this issue to you.
-Dialogue: 0,0:00:06.56,0:00:10.48,Default,Touko,0,0,0,,I like you too Lain, though I’m not sure why.
-Dialogue: 0,0:00:11.30,0:00:16.07,Default,Touko,0,0,0,,I suppose I just enjoy talking to you. That’s it.
-Dialogue: 0,0:00:17.02,0:00:21.06,Default,Touko,0,0,0,,It’s probably just because I like my job!
-Dialogue: 0,0:00:22.03,0:00:24.56,Default,Touko,0,0,0,,I just thought it had to do with you, but I guess not.
-Dialogue: 0,0:00:25.74,0:00:28.96,Default,Touko,0,0,0,,It is enough for me to be able to understand my feelings.
-Dialogue: 0,0:00:29.94,0:00:41.06,Default,Touko,0,0,0,,I can never read your mind, so I can never know that you like me as much as I like you.
-Dialogue: 0,0:00:42.59,0:00:45.42,Default,Lain,0,0,0,,Sounds lonely...
+Dialogue: 0,0:00:02.38,0:00:03.15,Default,Touko,0,0,0,,I’m sorry.
+Dialogue: 0,0:00:03.83,0:00:05.52,Default,Touko,0,0,0,,I just wanted to explain it.
+Dialogue: 0,0:00:06.71,0:00:08.50,Default,Touko,0,0,0,,I really like you, Lain.
+Dialogue: 0,0:00:09.11,0:00:10.50,Default,Touko,0,0,0,,No matter what brings you in,
+Dialogue: 0,0:00:11.36,0:00:16.09,Default,Touko,0,0,0,,I'm just happy that I get to talk with you like this.
+Dialogue: 0,0:00:17.08,0:00:21.06,Default,Touko,0,0,0,,But, that's just my point of view.
+Dialogue: 0,0:00:22.08,0:00:24.60,Default,Touko,0,0,0,,You may or may not feel the same way.
+Dialogue: 0,0:00:25.80,0:00:29.00,Default,Touko,0,0,0,,All I can understand is the way I feel.
+Dialogue: 0,0:00:29.94,0:00:32.69,Default,Touko,0,0,0,,Anything more is impossible for me to know for certain, right?
+Dialogue: 0,0:00:33.74,0:00:37.38,Default,Touko,0,0,0,,I have no idea if you like me as much as I like you.
+Dialogue: 0,0:00:37.89,0:00:41.17,Default,Touko,0,0,0,,I can't see into your mind.
+Dialogue: 0,0:00:42.59,0:00:45.68,Default,Lain,0,0,0,,Sounds lonely...
 Dialogue: 0,0:00:46.10,0:00:50.35,Default,Touko,0,0,0,,I’m sorry, but you know, this is one of the ways for me to know that.
 Dialogue: 0,0:00:51.90,0:00:56.30,Default,Touko,0,0,0,,I’m so happy with you saying that you like me.
 Dialogue: 0,0:00:57.63,0:01:00.74,Default,Touko,0,0,0,,Are you happy with me saying I like you?
